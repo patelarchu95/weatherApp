@@ -1,0 +1,18 @@
+.main_body{
+    background-color: #2c6fb3;
+}
+.cover {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.cover-caption {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+.error{
+    color:#ffcccc;
+}
